@@ -1,0 +1,5 @@
+/* Add application styles & imports to this file! */
+.container {
+  container-name: container;
+  container-type: inline-size;
+}
